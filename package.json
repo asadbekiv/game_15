@@ -1,0 +1,14 @@
+{
+  "name": "game_15",
+  "version": "1.0.0",
+  "description": "'for more practise web development'",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "game_15"
+  ],
+  "author": "Asadbek",
+  "license": "ISC"
+}
