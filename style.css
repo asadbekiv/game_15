@@ -1,8 +1,29 @@
 .button{
     width: 100px;
     height: 100px;
-    background-color: aquamarine;
+    background-color: #e7e7e7;
     border: none;
-    border-radius: 15px;
-    font-size: 10px;
+    border-radius: 4px;
+    font-size: 32px;
+    margin: 4px 2px;
+    cursor: pointer;  
+
+}
+.triangle {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+.triangle  .word{
+    /* display: flex; */
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
 }
